@@ -6,7 +6,7 @@
 }
 
 body {
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("swirlbackdrop2.png");
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("Elegant_Background-19.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
@@ -15,12 +15,12 @@ body {
 }
 
 .content {
-    height: 60vh;
-    width: 60vw;
+    height: 80vh;
+    width: 80vw;
     
     position: relative;
     left: 50%;
-    margin-top: 50vh;
+    margin-top: 20vh;
 
     transform: translateX(-50%) translateY(-50%);
     border: 1px solid white;
